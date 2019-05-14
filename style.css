@@ -1,0 +1,11 @@
+.blue {
+    background-color: rgb(27, 73, 79);
+    color: #fff;
+    min-height: 400px;
+}
+
+.white {
+    background-color: #fff;
+    color: rgb(27, 73, 79);
+    min-height: 400px;
+}
